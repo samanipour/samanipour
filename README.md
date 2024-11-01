@@ -7,6 +7,7 @@ I am Ali Samanipour, a Software Engineer, Technical Product Manager, and Mentor.
 |---|---|---|---|
 |Practical Agile for Software Product Management| [Click Access Course Resources](https://github.com/samanipour/Practical-Agile-for-Software-Product-Management)| ✅ | ❌ |
 |Agile Software Development Manger Using Scrum in Farsi(فارسی)|[Click Access Course Resources](https://faradars.org/courses/fvsft9410-using-scrum-for-agile-process-management-of-web-and-mobile-applications)| ✅ | ❌ |
+|Software Engineering With UML|[Click Access Course Resources](https://github.com/samanipour/Software-Engineering-With-UML.git)| ✅ | ❌ |
 |UI/UX Fundamentals For Software Products Design and Development| [Click Access Course Resources](https://github.com/samanipour/Starting-Out-Your-UIUX-Career)| ✅ | ❌ |
 |Applying UI/UX Principals Using Figma| [Click Access Course Resources](https://github.com/samanipour/UIUX-with-Figma)| ✅ | ❌ |
 |Build Your Career as a Software Engineer| [Click Access Course Resources](https://github.com/samanipour/Software-Engineers-Life-Manual)| ✅ | ❌ |
